@@ -1,4 +1,4 @@
-# University Timetable Scheduling with Genetic Algorithmss
+# University Timetable Scheduling with Genetic Algorithms
 
 This project presents an AI-based solution to the **University Timetable Scheduling Problem (UTSP)**, an NP-hard optimization challenge. Using **Genetic Algorithms (GA)**, this system automates the creation of efficient, clash-free timetables for universities by respecting both hard and soft constraints such as room capacity, professor availability, and time slot distribution.
 

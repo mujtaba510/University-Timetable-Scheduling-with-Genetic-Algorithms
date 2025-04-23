@@ -60,8 +60,6 @@ This project presents an AI-based solution to the **University Timetable Schedul
 ---
 
 
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:

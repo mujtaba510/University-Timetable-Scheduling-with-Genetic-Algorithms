@@ -13,8 +13,6 @@ This project presents an AI-based solution to the **University Timetable Schedul
 - Maximize utilization of available resources.
 - Adhere to real-world constraints found in university scheduling.
 
----
-
 
 
 ## 🧠 Learnings & Results
@@ -54,16 +52,12 @@ This project presents an AI-based solution to the **University Timetable Schedul
   - Multiple Professors
 - Fully adhered to university scheduling constraints
 
----
-
 
 
 ## 🧩 Technologies Used
 
 - **Language**: Python
 - **Platform**: Jupyter Notebook
-
----
 
 
 

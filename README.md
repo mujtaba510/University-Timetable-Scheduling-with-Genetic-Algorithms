@@ -4,6 +4,8 @@ This project presents an AI-based solution to the **University Timetable Schedul
 
 ---
 
+
+
 ## 🎯 Project Goals
 
 - Efficiently allocate classrooms, professors, and time slots.
@@ -12,6 +14,8 @@ This project presents an AI-based solution to the **University Timetable Schedul
 - Adhere to real-world constraints found in university scheduling.
 
 ---
+
+
 
 ## 🧠 Learnings & Results
 
@@ -52,12 +56,16 @@ This project presents an AI-based solution to the **University Timetable Schedul
 
 ---
 
+
+
 ## 🧩 Technologies Used
 
 - **Language**: Python
 - **Platform**: Jupyter Notebook
 
 ---
+
+
 
 
 ## 🚀 Getting Started
